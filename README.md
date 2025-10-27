@@ -1,6 +1,6 @@
 # 🐛 WinFun, ты это видишь?
 
-![this is winfun](https://i.ibb.co/Q3Vx8yX6)
+![this is winfun](https://raw.githubusercontent.com/windows10do/winfun1-shit/refs/heads/main/Copilot_20251027_172139.png)
 
 Привет, @winfun1!
 
